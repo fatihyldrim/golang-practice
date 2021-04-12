@@ -3,6 +3,8 @@
 	Map içinde key var mı sorgusu
 	Map den item silme
 	For ile map içinde dönme
+
+	new ile make arasındaki fark: new poinder döner
 */
 package main
 
